@@ -53,25 +53,24 @@
 	<br>
 	<dd> 11. El sistema debe permitir buscar eventos y reportes de una mascota como el número de microchip o por propietario (este se usa es por cedula).</dd>
 	<br>
-	<h3><em> Diagramas UML </em></h3>
-	<br>
+	<h3 align="center"><em> Diagramas UML </em></h3>
 	<dt>
-		<h4><em> Diagrama de casos de uso </em><h4>
-		<img src="./ReadmeSources/CasosDeUso.png">
+		<h4 align="center"><em> Diagrama de casos de uso </em><h4>
+		<img src="./ReadmeSources/CasosDeUso.png" align="center">
 	</dt>
 	<dt>
-		<h4><em> Diagrama de clases </em><h4>
+		<h4 align="center"><em> Diagrama de clases </em><h4>
 	</dt>
 	<dt>
-		<h4><em> Diagrama de secuencia </em><h4>
+		<h4 align="center"><em> Diagrama de secuencia </em><h4>
 	</dt>
 	<dt>
-		<h4><em> Diagrama de secuencia </em><h4>
+		<h4 align="center"><em> Diagrama de secuencia </em><h4>
 	</dt>
 	<dt>
-		<h4><em> Diagrama de componentes </em><h4>
+		<h4 align="center"><em> Diagrama de componentes </em><h4>
 	</dt>
-	<h3><em> Mockups </em></h3>
+	<h3 align="center"><em> Mockups </em></h3>
 </dl>
 
 </html>
