@@ -56,32 +56,45 @@
 	<h3 align="center"><em> Diagramas UML </em></h3>
 	<dt>
 		<h4 align="center"><em> Diagrama de casos de uso </em><h4>
+		<br>
 		<img src="./ReadmeSources/DiagramadeCasosdeuso.jpg" align="center">
 	</dt>
 	<dt>
 		<h4 align="center"><em> Diagrama de clases </em><h4>
+		<br>
 		<img src="./ReadmeSources/DiagramadeClases.jpg" align="center">
 	</dt>
 	<dt>
 		<h4 align="center"><em> Diagrama de secuencia </em><h4>
+		<br>
 		<img src="./ReadmeSources/DiagramadeSecuencia.jpg" align="center">
 	</dt>
 	<dt>
 		<h4 align="center"><em> Diagrama de componentes </em><h4>
+		<br>
 		<img src="./ReadmeSources/DiagramadeComponentes.jpg" align="center">
 	</dt>
 	<h3 align="center"><em> Mockups </em></h3>
+	<br>
 	<img src="./ReadmeSources/Mockup/MockUp1.png" align="center">
+	<br>
 	<img src="./ReadmeSources/Mockup/MockUp2.png" align="center">
+	<br>
 	<img src="./ReadmeSources/Mockup/MockUp3.png" align="center">
-	<img src="./ReadmeSources/Mockup/Pantalla1.PNG" align="center">
-	<img src="./ReadmeSources/Mockup/Pantalla2.PNG" align="center">
-	<img src="./ReadmeSources/Mockup/Pantalla3.PNG" align="center">
-	<img src="./ReadmeSources/Mockup/Pantalla4.PNG" align="center">
-	<img src="./ReadmeSources/Mockup/Pantalla5.PNG" align="center">
-	<img src="./ReadmeSources/Mockup/Pantalla6.PNG" align="center">
-	<img src="./ReadmeSources/Mockup/Pantalla7.PNG" align="center">
-	
+	<br>
+	<img src="./ReadmeSources/Mockup/MockUp4.PNG" align="center">
+	<br>
+	<img src="./ReadmeSources/Mockup/MockUp5.PNG" align="center">
+	<br>
+	<img src="./ReadmeSources/Mockup/MockUp6.PNG" align="center">
+	<br>
+	<img src="./ReadmeSources/Mockup/MockUp7.PNG" align="center">
+	<br>
+	<img src="./ReadmeSources/Mockup/MockUp8.PNG" align="center">
+	<br>
+	<img src="./ReadmeSources/Mockup/MockUp9.PNG" align="center">
+	<br>
+	<img src="./ReadmeSources/Mockup/MockUp10.PNG" align="center">
 </dl>
 
 </html>
