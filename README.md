@@ -53,7 +53,15 @@
 	<br>
 	<dd> 11. El sistema debe permitir buscar eventos y reportes de una mascota como el número de microchip o por propietario (este se usa es por cedula).</dd>
 	<br>
+	<dd> 12. El sistema debe de realizar la verificación e identificación de usuarios para el acceso completo o restringido de la página.</dd>
+	<br>
+	<dd> 13. El sistema debe permitir crear, actualizar a más de una mascota por propietario y debe de guardarlo.
+   </dd>
+	<br>
 	<h3 align="center"><em> Diagramas UML </em></h3>
+	<dd> Para la visualización de los diagramas y mockup se recomienda hacer clic derecho encima de esta y seleccionar "Abrir imagen en una pestaña nueva", ya que esto permite que se pueda ampliar a gusto.
+   </dd>
+	<br>
 	<dt>
 		<h4 align="center"><em> Diagrama de casos de uso </em><h4>
 		<br>
