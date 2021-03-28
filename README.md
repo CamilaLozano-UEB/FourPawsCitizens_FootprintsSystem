@@ -71,6 +71,17 @@
 		<img src="./ReadmeSources/DiagramadeComponentes.jpg" align="center">
 	</dt>
 	<h3 align="center"><em> Mockups </em></h3>
+	<img src="./ReadmeSources/Mockup/MockUp1.png" align="center">
+	<img src="./ReadmeSources/Mockup/MockUp2.png" align="center">
+	<img src="./ReadmeSources/Mockup/MockUp3.png" align="center">
+	<img src="./ReadmeSources/Mockup/Pantalla1.PNG" align="center">
+	<img src="./ReadmeSources/Mockup/Pantalla2.PNG" align="center">
+	<img src="./ReadmeSources/Mockup/Pantalla3.PNG" align="center">
+	<img src="./ReadmeSources/Mockup/Pantalla4.PNG" align="center">
+	<img src="./ReadmeSources/Mockup/Pantalla5.PNG" align="center">
+	<img src="./ReadmeSources/Mockup/Pantalla6.PNG" align="center">
+	<img src="./ReadmeSources/Mockup/Pantalla7.PNG" align="center">
+	
 </dl>
 
 </html>
