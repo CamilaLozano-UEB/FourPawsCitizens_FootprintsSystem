@@ -56,13 +56,15 @@
 	<h3 align="center"><em> Diagramas UML </em></h3>
 	<dt>
 		<h4 align="center"><em> Diagrama de casos de uso </em><h4>
-		<img src="./ReadmeSources/CasosDeUso.png" align="center">
+		<img src="./ReadmeSources/Diagrama de Casos de uso.jpg" align="center">
 	</dt>
 	<dt>
 		<h4 align="center"><em> Diagrama de clases </em><h4>
+		<img src="./ReadmeSources/Diagrama de Clases.jpg" align="center">
 	</dt>
 	<dt>
 		<h4 align="center"><em> Diagrama de secuencia </em><h4>
+		<img src="./ReadmeSources/Diagrama de Secuencia.jpg" align="center">
 	</dt>
 	<dt>
 		<h4 align="center"><em> Diagrama de secuencia </em><h4>
