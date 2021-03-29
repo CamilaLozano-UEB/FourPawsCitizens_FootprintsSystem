@@ -55,7 +55,7 @@
 	<br>
 	<dd> 12. El sistema debe de realizar la verificación e identificación de usuarios para el acceso completo o restringido de la página.</dd>
 	<br>
-	<dd> 13. El sistema debe permitir crear, actualizar a más de una mascota por propietario y debe de guardarlo.
+	<dd> 13. El sistema debe permitir crear y/o actualizar a una o más más mascotas por propietario y debe de guardarlo.
    </dd>
 	<br>
 	<h3 align="center"><em> Diagramas UML </em></h3>
